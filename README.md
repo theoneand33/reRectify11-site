@@ -1,4 +1,5 @@
 # reRectify11-site
+I dont like the new Rectify11 website so I made my own
 
 ## Not my best
 
